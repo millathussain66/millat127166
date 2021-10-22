@@ -12,11 +12,10 @@ I’m MD.Millat Hussain Passionate about web development. I’m working a minimu
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working at @Toptal
-- :computer: Most used line of code `git commit -m "Initial Commit"`
+- 🔭 I’m  Passionate about web development.
+- :computer: Most used line of code `git commit -m "Many Commit"`
 - 🤔 I’m looking for help with Outstanding Websit ideas.
 - 📫 How to reach me: millathussain127166@gmail.com.
-- ⚡ Fun fact: I play games and go to the GYM very often.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=millat127166)](https://github.com/ryo-ma/github-profile-trophy)
 
