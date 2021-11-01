@@ -17,8 +17,6 @@ I’m MD.Millat Hussain Passionate about web development. I’m working a minimu
 - 🤔 I’m looking for help with Outstanding Websit ideas.
 - 📫 How to reach me: millathussain127166@gmail.com.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=millat127166)](https://github.com/ryo-ma/github-profile-trophy)
-
 #### Top Technologies
 
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=millat127166&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
