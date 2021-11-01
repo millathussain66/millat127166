@@ -4,7 +4,7 @@
 
 I’m MD.Millat Hussain Passionate about web development. I’m working a minimum of 7-8 hours every day, My coding is W3C validated, fresh, SEO optimized and also hand-coded. I work flexibly with clients.
 
-### Tools
+### Tools & Technology 
 
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
