@@ -1,6 +1,6 @@
 [![Millat Hussian Logo](https://media-exp1.licdn.com/dms/image/C5616AQHC_7VqIsg1PA/profile-displaybackgroundimage-shrink_350_1400/0/1629977296741?e=1641427200&v=beta&t=0H2tX78JTq8TuIKkKh_nNY7eJvvjUnXzURdI3eX06cI)](https://www.fb.com/developermillat "Go To My Facebook")
 
-## Hi I'm Millat Hussain <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+# Hi I'm Millat Hussain <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 I’m MD.Millat Hussain Passionate about web development. I’m working a minimum of 7-8 hours every day, My coding is W3C validated, fresh, SEO optimized and also hand-coded. I work flexibly with clients.
 
@@ -33,10 +33,16 @@ I’m MD.Millat Hussain Passionate about web development. I’m working a minimu
 <br />
 <br />
 
-#### CV / Email Address
+### CV / Email Address
 
 - :paperclip: [My Resume/CV](https://drive.google.com/file/d/1NjyR41YqX5WPgNCWos_QNdQ_B02vrrbd/view?usp=sharing)
 - :email: millathussain127166@gmail.com
+
+
+### Top Technologies
+
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=millat127166&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ### Find me on social media
@@ -50,9 +56,6 @@ I’m MD.Millat Hussain Passionate about web development. I’m working a minimu
 - 🤔 I’m looking for help with Outstanding Websit ideas.
 - 📫 My Protfolio Website : [https://millat127166.github.io/me/ ](https://millat127166.github.io/me/ )
 
-#### Top Technologies
-
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=millat127166&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=millat127166&theme=blue-green)](https://github.com/millat-hussain/github-readme-streak-stats)
 
