@@ -34,7 +34,7 @@ I’m MD.Millat Hussain Passionate about web development. I’m working a minimu
 <br />
 
 ### CV / Email Address
-
+- 📫 My Protfolio Website : [https://millat127166.github.io/me/ ](https://millat127166.github.io/me/ )
 - :paperclip: [My Resume/CV](https://drive.google.com/file/d/1NjyR41YqX5WPgNCWos_QNdQ_B02vrrbd/view?usp=sharing)
 - :email: millathussain127166@gmail.com
 
@@ -54,7 +54,7 @@ I’m MD.Millat Hussain Passionate about web development. I’m working a minimu
 - 🔭 I’m  Passionate about web development.
 - :computer: Most used line of code `git commit -m "Many Commit"`
 - 🤔 I’m looking for help with Outstanding Websit ideas.
-- 📫 My Protfolio Website : [https://millat127166.github.io/me/ ](https://millat127166.github.io/me/ )
+
 
 
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=millat127166&theme=blue-green)](https://github.com/millat-hussain/github-readme-streak-stats)
