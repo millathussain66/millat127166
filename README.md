@@ -50,7 +50,7 @@ I’m MD.Millat Hussain Passionate about web development. I’m working a minimu
 
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=millat127166&theme=blue-green)](https://github.com/millat-hussain/github-readme-streak-stats)
 
-#### Bizness
+#### CV / Email Address
 
 - :paperclip: [My Resume/CV](https://drive.google.com/file/d/1NjyR41YqX5WPgNCWos_QNdQ_B02vrrbd/view?usp=sharing)
 - :email: millathussain127166@gmail.com
