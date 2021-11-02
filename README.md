@@ -33,6 +33,11 @@ I’m MD.Millat Hussain Passionate about web development. I’m working a minimu
 <br />
 <br />
 
+#### CV / Email Address
+
+- :paperclip: [My Resume/CV](https://drive.google.com/file/d/1NjyR41YqX5WPgNCWos_QNdQ_B02vrrbd/view?usp=sharing)
+- :email: millathussain127166@gmail.com
+
 ### Find me on social media
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/millat127166) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/millat127166/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/developermillat)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/millat127166) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/16719392) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://millat127166.github.io/me/)
@@ -50,10 +55,6 @@ I’m MD.Millat Hussain Passionate about web development. I’m working a minimu
 
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=millat127166&theme=blue-green)](https://github.com/millat-hussain/github-readme-streak-stats)
 
-#### CV / Email Address
-
-- :paperclip: [My Resume/CV](https://drive.google.com/file/d/1NjyR41YqX5WPgNCWos_QNdQ_B02vrrbd/view?usp=sharing)
-- :email: millathussain127166@gmail.com
 
 <details>
 <summary>
