@@ -6,8 +6,8 @@ I’m MD.Millat Hussain  Professional Full-Stack Web Developer & Web Designer.
 
 Background:
 1. Database experience with MySQL.
-2. Experience with MVC frameworks like larval.
-3.Experience with source control management systems like git.
+2. Experience with MVC frameworks like larval.<br/>
+3.Experience with source control management systems like git.<br/>
 4.Experience developing for the mobile web.
 Skill :
 1.Proficiency in PHP, Leraval and, Javascript.
