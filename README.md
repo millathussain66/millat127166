@@ -2,8 +2,17 @@
 
 # Hi I'm Millat Hussain <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-###I’m MD.Millat Hussain  Professional Full-Stack Web Developer & Web Designer.
+### I’m MD.Millat Hussain  Professional Full-Stack Web Developer & Web Designer.
 
+<ul>
+ <li>Strong knowledge of PHP.</li>
+ <li> Strong knowledge in OOP with MVC.</li>
+ <li>Strong knowledge in LARAVEL.</li>
+ <li>Complete 5 projects with Laravel.</li>
+ <li>have Strong knowledge in JAVASCRIPT</li>
+ <li>Good core knowledge of HTML/HTML5, CSS3, and Bootstrap framework.</li>
+ 
+</ul>
 
 ### Tools & Technology 
 
